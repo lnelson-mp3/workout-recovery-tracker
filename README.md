@@ -2,7 +2,7 @@
 
 A full-stack workout planning application that helps users organize their weekly training, track completed workouts, monitor muscle recovery, and receive AI-powered workout recommendations based on their recent activity and recovery status.
 
-**Live Demo:** [Your Vercel URL Here]
+**Live Demo:** workout-recovery-tracker.vercel.app
 
 ---
 
